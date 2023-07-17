@@ -1,0 +1,134 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\VS2015\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\\\node\\node',
+1 verbose cli   'D:\\VS2015\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@1.4.9
+3 info using node@v0.10.31
+4 verbose node symlink D:\VS2015\Common7\IDE\Extensions\Microsoft\Web Tools\External\\node\node
+5 warn package.json recreateuuid@1.0.1 No repository field.
+6 warn package.json recreateuuid@1.0.1 No README data
+7 verbose readDependencies using package.json deps
+8 verbose install where, deps [ 'C:\\Users\\HAO7\\AppData\\Local\\Temp\\Rar$DIa20808.15768',
+8 verbose install   [ '@types/node', 'typescript' ] ]
+9 info preinstall recreateuuid@1.0.1
+10 verbose readDependencies using package.json deps
+11 verbose cache add [ '@types/node@^16.0.1', null ]
+12 verbose cache add name=undefined spec="@types/node@^16.0.1" args=["@types/node@^16.0.1",null]
+13 verbose parsed url { protocol: null,
+13 verbose parsed url   slashes: null,
+13 verbose parsed url   auth: null,
+13 verbose parsed url   host: null,
+13 verbose parsed url   port: null,
+13 verbose parsed url   hostname: null,
+13 verbose parsed url   hash: null,
+13 verbose parsed url   search: null,
+13 verbose parsed url   query: null,
+13 verbose parsed url   pathname: '@types/node@^16.0.1',
+13 verbose parsed url   path: '@types/node@^16.0.1',
+13 verbose parsed url   href: '@types/node@^16.0.1' }
+14 verbose cache add [ 'typescript@^4.3.4', null ]
+15 verbose cache add name=undefined spec="typescript@^4.3.4" args=["typescript@^4.3.4",null]
+16 verbose parsed url { protocol: null,
+16 verbose parsed url   slashes: null,
+16 verbose parsed url   auth: null,
+16 verbose parsed url   host: null,
+16 verbose parsed url   port: null,
+16 verbose parsed url   hostname: null,
+16 verbose parsed url   hash: null,
+16 verbose parsed url   search: null,
+16 verbose parsed url   query: null,
+16 verbose parsed url   pathname: 'typescript@^4.3.4',
+16 verbose parsed url   path: 'typescript@^4.3.4',
+16 verbose parsed url   href: 'typescript@^4.3.4' }
+17 verbose cache add name="typescript" spec="^4.3.4" args=["typescript","^4.3.4"]
+18 verbose parsed url { protocol: null,
+18 verbose parsed url   slashes: null,
+18 verbose parsed url   auth: null,
+18 verbose parsed url   host: null,
+18 verbose parsed url   port: null,
+18 verbose parsed url   hostname: null,
+18 verbose parsed url   hash: null,
+18 verbose parsed url   search: null,
+18 verbose parsed url   query: null,
+18 verbose parsed url   pathname: '^4.3.4',
+18 verbose parsed url   path: '^4.3.4',
+18 verbose parsed url   href: '^4.3.4' }
+19 verbose addNamed [ 'typescript', '^4.3.4' ]
+20 verbose addNamed [ null, '>=4.3.4-0 <5.0.0-0' ]
+21 verbose cache add name="" spec="types/node@^16.0.1" args=["","types/node@^16.0.1"]
+22 verbose parsed url { protocol: null,
+22 verbose parsed url   slashes: null,
+22 verbose parsed url   auth: null,
+22 verbose parsed url   host: null,
+22 verbose parsed url   port: null,
+22 verbose parsed url   hostname: null,
+22 verbose parsed url   hash: null,
+22 verbose parsed url   search: null,
+22 verbose parsed url   query: null,
+22 verbose parsed url   pathname: 'types/node@^16.0.1',
+22 verbose parsed url   path: 'types/node@^16.0.1',
+22 verbose parsed url   href: 'types/node@^16.0.1' }
+23 silly lockFile 57bd1321-typescript-4-3-4 typescript@^4.3.4
+24 verbose lock typescript@^4.3.4 C:\Users\HAO7\AppData\Roaming\npm-cache\57bd1321-typescript-4-3-4.lock
+25 verbose cache add name="types/node" spec="^16.0.1" args=["types/node","^16.0.1"]
+26 verbose parsed url { protocol: null,
+26 verbose parsed url   slashes: null,
+26 verbose parsed url   auth: null,
+26 verbose parsed url   host: null,
+26 verbose parsed url   port: null,
+26 verbose parsed url   hostname: null,
+26 verbose parsed url   hash: null,
+26 verbose parsed url   search: null,
+26 verbose parsed url   query: null,
+26 verbose parsed url   pathname: '^16.0.1',
+26 verbose parsed url   path: '^16.0.1',
+26 verbose parsed url   href: '^16.0.1' }
+27 verbose addNamed [ 'types/node', '^16.0.1' ]
+28 verbose addNamed [ null, '>=16.0.1-0 <17.0.0-0' ]
+29 silly lockFile a8f1b9b9-types-node-16-0-1 types/node@^16.0.1
+30 verbose lock types/node@^16.0.1 C:\Users\HAO7\AppData\Roaming\npm-cache\a8f1b9b9-types-node-16-0-1.lock
+31 silly addNameRange { name: 'types/node',
+31 silly addNameRange   range: '>=16.0.1-0 <17.0.0-0',
+31 silly addNameRange   hasData: false }
+32 silly addNameRange { name: 'typescript',
+32 silly addNameRange   range: '>=4.3.4-0 <5.0.0-0',
+32 silly addNameRange   hasData: false }
+33 verbose url raw types/node
+34 verbose url resolving [ 'https://registry.npmjs.org/', './types/node' ]
+35 verbose url resolved https://registry.npmjs.org/types/node
+36 info trying registry request attempt 1 at 15:46:25
+37 http GET https://registry.npmjs.org/types/node
+38 verbose url raw typescript
+39 verbose url resolving [ 'https://registry.npmjs.org/', './typescript' ]
+40 verbose url resolved https://registry.npmjs.org/typescript
+41 info trying registry request attempt 1 at 15:46:25
+42 http GET https://registry.npmjs.org/typescript
+43 http 405 https://registry.npmjs.org/types/node
+44 silly registry.get cb [ 405,
+44 silly registry.get   { date: 'Tue, 16 May 2023 07:46:26 GMT',
+44 silly registry.get     'content-type': 'application/json',
+44 silly registry.get     'content-length': '63',
+44 silly registry.get     connection: 'keep-alive',
+44 silly registry.get     'cf-ray': '7c8201c2ba069698-SJC',
+44 silly registry.get     allow: 'PUT',
+44 silly registry.get     'cf-cache-status': 'DYNAMIC',
+44 silly registry.get     vary: 'Accept-Encoding',
+44 silly registry.get     server: 'cloudflare' } ]
+45 silly lockFile a8f1b9b9-types-node-16-0-1 types/node@^16.0.1
+46 silly lockFile a8f1b9b9-types-node-16-0-1 types/node@^16.0.1
+47 error Error: Method Not Allowed
+47 error     at errorResponse (D:\VS2015\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\lib\cache.js:753:14)
+47 error     at D:\VS2015\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\lib\cache.js:773:12
+47 error     at saved (D:\VS2015\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm-registry-client\lib\get.js:148:7)
+47 error     at D:\VS2015\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\graceful-fs\polyfills.js:133:7
+47 error     at Object.oncomplete (fs.js:107:15)
+48 error If you need help, you may report this *entire* log,
+48 error including the npm and node versions, at:
+48 error     <http://github.com/npm/npm/issues>
+49 error System Windows_NT 6.2.9200
+50 error command "D:\\VS2015\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\\\node\\node" "D:\\VS2015\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\npm\\node_modules\\npm\\bin\\npm-cli.js" "install"
+51 error cwd C:\Users\HAO7\AppData\Local\Temp\Rar$DIa20808.15768
+52 error node -v v0.10.31
+53 error npm -v 1.4.9
+54 error code E405
+55 verbose exit [ 1, true ]
