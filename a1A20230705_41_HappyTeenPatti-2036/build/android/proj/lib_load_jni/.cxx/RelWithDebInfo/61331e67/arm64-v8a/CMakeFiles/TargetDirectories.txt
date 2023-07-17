@@ -1,0 +1,3 @@
+C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/RelWithDebInfo/61331e67/arm64-v8a/CMakeFiles/loadPlugin.dir
+C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/RelWithDebInfo/61331e67/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/RelWithDebInfo/61331e67/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# ninja log v5
+0	703	7107676244395976	CMakeFiles/loadPlugin.dir/native-lib.cpp.o	227dedbebd59e2d4
+706	797	7107676245459801	C:/work/code/demo/j9helloword-fix2/lib_load_so/build/intermediates/cxx/RelWithDebInfo/61331e67/obj/armeabi-v7a/libloadPlugin.so	283d42daddd12d24
+0	10	0	clean	1743349477948fb9
+3	1525	7107757968738925	CMakeFiles/loadPlugin.dir/native-lib.cpp.o	227dedbebd59e2d4
+1526	1687	7107757970404486	C:/work/code/demo/j9helloword-fix2/lib_load_so/build/intermediates/cxx/RelWithDebInfo/61331e67/obj/armeabi-v7a/libloadPlugin.so	283d42daddd12d24
+0	13	0	clean	1743349477948fb9
+1	8	0	clean	1743349477948fb9
+2	665	7108341522285646	CMakeFiles/loadPlugin.dir/native-lib.cpp.o	227dedbebd59e2d4
+666	783	7108341523492135	C:/work/code/demo/j9helloword-fix2/lib_load_so/build/intermediates/cxx/RelWithDebInfo/61331e67/obj/armeabi-v7a/libloadPlugin.so	283d42daddd12d24
+0	7	0	clean	1743349477948fb9
+0	7	0	clean	1743349477948fb9
+0	8	0	clean	1743349477948fb9
+0	8	0	clean	1743349477948fb9
