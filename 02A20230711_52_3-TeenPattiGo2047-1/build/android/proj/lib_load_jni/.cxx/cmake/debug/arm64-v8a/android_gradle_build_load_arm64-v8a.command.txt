@@ -1,0 +1,7 @@
+Executable : C:\Users\1\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\work\code\github\Plugin\02A20230711_52_3-TeenPattiGo2047-1\build\android\proj\lib_load_jni\.cxx\cmake\debug\arm64-v8a
+load
+jvmArgs : 
+

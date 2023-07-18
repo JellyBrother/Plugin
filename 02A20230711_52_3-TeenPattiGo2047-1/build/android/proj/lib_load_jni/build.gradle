@@ -1,0 +1,65 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
+    defaultConfig {
+        minSdkVersion PROP_MIN_SDK_VERSION
+        targetSdkVersion PROP_TARGET_SDK_VERSION
+        consumerProguardFiles 'proguard-rules.pro'
+
+        externalNativeBuild {
+            cmake {
+                cppFlags ""
+            }
+        }
+    }
+    buildTypes {
+        debug {
+            // 调试模式开关
+            debuggable true
+            jniDebuggable true
+            // 压缩对齐开关
+            zipAlignEnabled false
+            // 代码混淆开关
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            ndk {
+//                abiFilters('armeabi', 'armeabi-v7a', 'x86', 'mips', 'arm64-v8a', "mips64", "x86_64")
+                abiFilters('armeabi-v7a', 'arm64-v8a')
+            }
+        }
+        release {
+            // 调试模式开关
+            debuggable false
+            jniDebuggable false
+            // 压缩对齐开关
+            zipAlignEnabled true
+            // 代码混淆开关
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            // 仅保留两种架构的 so 库，根据 Bugly 统计得出
+            ndk {
+                // armeabi：万金油架构平台（占用率：0%）
+                // armeabi-v7a：曾经主流的架构平台（占用率：10%）
+                // arm64-v8a：目前主流架构平台（占用率：95%）
+                abiFilters('armeabi-v7a', 'arm64-v8a')
+            }
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+            version "3.18.1"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation 'androidx.annotation:annotation:1.6.0'
+    implementation 'net.lingala.zip4j:zip4j:2.11.5'
+}

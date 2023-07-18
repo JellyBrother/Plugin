@@ -1,0 +1,10 @@
+# ninja log v5
+0	628	7112872412038428	CMakeFiles/load.dir/native-lib.cpp.o	1d2220caaf8fa7c
+630	707	7112872412885801	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/RelWithDebInfo/5b431d1g/obj/arm64-v8a/libload.so	859bbad8905709ad
+0	7	0	clean	1743349477948fb9
+2	833	7112875667013691	CMakeFiles/load.dir/native-lib.cpp.o	1d2220caaf8fa7c
+834	955	7112875668370332	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/RelWithDebInfo/5b431d1g/obj/arm64-v8a/libload.so	859bbad8905709ad
+2	82	7112898279913667	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/RelWithDebInfo/5b431d1g/obj/arm64-v8a/libload.so	859bbad8905709ad
+0	7	0	clean	1743349477948fb9
+2	591	7112904606510100	CMakeFiles/load.dir/native-lib.cpp.o	1d2220caaf8fa7c
+591	658	7112904607291154	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/RelWithDebInfo/5b431d1g/obj/arm64-v8a/libload.so	859bbad8905709ad

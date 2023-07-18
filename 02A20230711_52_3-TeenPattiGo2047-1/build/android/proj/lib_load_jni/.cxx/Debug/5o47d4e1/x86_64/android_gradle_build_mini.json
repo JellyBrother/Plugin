@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\work\\code\\github\\App\\j13helloword-2036\\lib_load_jni\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\work\\code\\github\\App\\j13helloword-2036\\lib_load_jni\\.cxx\\Debug\\5o47d4e1\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\work\\code\\github\\App\\j13helloword-2036\\lib_load_jni\\.cxx\\Debug\\5o47d4e1\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "load::@6890427a1f51a3e7e1df": {
+      "artifactName": "load",
+      "abi": "x86_64",
+      "output": "C:\\work\\code\\github\\App\\j13helloword-2036\\lib_load_jni\\build\\intermediates\\cxx\\Debug\\5o47d4e1\\obj\\x86_64\\libload.so",
+      "runtimeFiles": []
+    }
+  }
+}

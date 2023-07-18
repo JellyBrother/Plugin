@@ -1,0 +1,1 @@
+C:\work\code\github\App\j13helloword-2036\lib_load_jni\build\intermediates\cxx\RelWithDebInfo\3lj3l4i2\obj\x86

@@ -1,0 +1,1 @@
+C:\work\code\github\App\j13helloword-2036\lib_load_jni\build\intermediates\cxx\Debug\3w43682b\obj\arm64-v8a

@@ -1,0 +1,4 @@
+# ninja log v5
+1	2085	7112969590934809	CMakeFiles/load.dir/native-lib.cpp.o	7b94a16e5fd1cc8f
+2087	2173	7112969591872089	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/Debug/5o47d4e1/obj/arm64-v8a/libload.so	df179ef090adc44a
+12	301	7113498023477111	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/Debug/5o47d4e1/obj/arm64-v8a/libload.so	df179ef090adc44a
