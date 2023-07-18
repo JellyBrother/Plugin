@@ -1,3 +1,0 @@
-C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/Debug/5l631w1e/x86/CMakeFiles/loadPlugin.dir
-C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/Debug/5l631w1e/x86/CMakeFiles/edit_cache.dir
-C:/work/code/demo/j9helloword-fix2/lib_load_so/.cxx/Debug/5l631w1e/x86/CMakeFiles/rebuild_cache.dir

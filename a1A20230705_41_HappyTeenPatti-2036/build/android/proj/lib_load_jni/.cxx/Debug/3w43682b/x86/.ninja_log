@@ -1,6 +1,0 @@
-# ninja log v5
-0	1203	7112898249452052	CMakeFiles/load.dir/native-lib.cpp.o	c048c985cb716f68
-1204	1282	7112898250396768	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/Debug/3w43682b/obj/x86/libload.so	9efbb64cb6a06d95
-0	7	0	clean	1743349477948fb9
-2	433	7112904593434984	CMakeFiles/load.dir/native-lib.cpp.o	c048c985cb716f68
-433	505	7112904594215741	C:/work/code/github/App/j13helloword-2036/lib_load_jni/build/intermediates/cxx/Debug/3w43682b/obj/x86/libload.so	9efbb64cb6a06d95

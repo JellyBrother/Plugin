@@ -1,1 +1,0 @@
-C:\work\code\github\App\j13helloword-2036\lib_load_jni\build\intermediates\cxx\RelWithDebInfo\5b431d1g\obj\armeabi-v7a
