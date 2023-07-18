@@ -1,0 +1,39 @@
+{
+    "package_version": 2,
+    "version": "1.0.1",
+    "name": "recreateuuid",
+    "description": "i18n:recreateuuid.description",
+    "main": "./dist/main.js",
+    "devDependencies": {
+        "@types/node": "^16.0.1",
+        "typescript": "^4.3.4"
+    },
+    "author": "hybon",
+    "editor": ">=3.5.0",
+    "scripts": {
+        "build": "tsc -b",
+        "watch": "tsc -w"
+    },
+    "contributions": {
+        "menu": [
+            {
+                "path": "i18n:recreateuuid.developer",
+                "label": "i18n:recreateuuid.label",
+                "message": "main"
+            }
+        ],
+        "messages": {
+            "main": {
+                "methods": [
+                    "run"
+                ]
+            }
+        },
+        "asset-db": {
+            "mount": {
+                "path": "./assets",
+                "readonly": false
+            }
+        }
+    }
+}

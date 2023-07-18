@@ -1,0 +1,3 @@
+C:/work/code/github/App/j13helloword-2036/lib_load_jni/.cxx/RelWithDebInfo/5b431d1g/arm64-v8a/CMakeFiles/load.dir
+C:/work/code/github/App/j13helloword-2036/lib_load_jni/.cxx/RelWithDebInfo/5b431d1g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/work/code/github/App/j13helloword-2036/lib_load_jni/.cxx/RelWithDebInfo/5b431d1g/arm64-v8a/CMakeFiles/rebuild_cache.dir
