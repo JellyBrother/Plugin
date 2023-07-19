@@ -23,3 +23,16 @@ node_modules/
 #//////////////////////////
 .idea/
 .gradle/
+.cxx/
+cmake/
+intermediates/
+.transforms/
+generated/
+intermediates/
+outputs/
+tmp/
+reports/
+
+
+
+

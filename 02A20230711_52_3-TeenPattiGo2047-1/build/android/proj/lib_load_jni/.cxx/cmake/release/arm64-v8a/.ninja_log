@@ -1,0 +1,10 @@
+# ninja log v5
+0	555	711433275	CMakeFiles/load.dir/native-lib.cpp.o	c94642083a08c409
+556	626	711433276	C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/build/intermediates/cmake/release/obj/arm64-v8a/libload.so	9ec52614f6895ec8
+0	7	0	clean	9a03348291076c91
+2	537	711437026	CMakeFiles/load.dir/native-lib.cpp.o	c94642083a08c409
+538	608	711437026	C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/build/intermediates/cmake/release/obj/arm64-v8a/libload.so	9ec52614f6895ec8
+0	6	0	clean	9a03348291076c91
+2	530	711439422	CMakeFiles/load.dir/native-lib.cpp.o	c94642083a08c409
+530	594	711439422	C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/build/intermediates/cmake/release/obj/arm64-v8a/libload.so	9ec52614f6895ec8
+2	73	711440118	C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/build/intermediates/cmake/release/obj/arm64-v8a/libload.so	9ec52614f6895ec8

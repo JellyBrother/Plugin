@@ -1,0 +1,3 @@
+C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/.cxx/cmake/release/armeabi-v7a/CMakeFiles/load.dir
+C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/work/code/github/Plugin/02A20230711_52_3-TeenPattiGo2047-1/build/android/proj/lib_load_jni/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

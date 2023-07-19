@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "C:\\work\\code\\github\\Plugin\\02A20230711_52_3-TeenPattiGo2047-1\\build\\android\\proj\\lib_load_jni\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\work\\code\\github\\Plugin\\02A20230711_52_3-TeenPattiGo2047-1\\build\\android\\proj\\lib_load_jni\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"C:\\work\\code\\github\\Plugin\\02A20230711_52_3-TeenPattiGo2047-1\\build\\android\\proj\\lib_load_jni\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "load-Debug-armeabi-v7a": {
+      "artifactName": "load",
+      "buildCommand": "C:\\Users\\1\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\work\\code\\github\\Plugin\\02A20230711_52_3-TeenPattiGo2047-1\\build\\android\\proj\\lib_load_jni\\.cxx\\cmake\\debug\\armeabi-v7a\" load",
+      "abi": "armeabi-v7a",
+      "output": "C:\\work\\code\\github\\Plugin\\02A20230711_52_3-TeenPattiGo2047-1\\build\\android\\proj\\lib_load_jni\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libload.so",
+      "runtimeFiles": []
+    }
+  }
+}
