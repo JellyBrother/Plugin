@@ -1,4 +1,4 @@
-package com.d08a3hqr;
+package com.gcjki.xwcn0es9j;
 
 import android.annotation.SuppressLint;
 
@@ -15,11 +15,11 @@ import dalvik.system.PathClassLoader;
  * Created by tangyinsheng on 2020-01-09.
  */
 @SuppressLint("NewApi")
-public final class Ld08a3hqroader extends PathClassLoader {
+public final class Lxwcn0es9joader extends PathClassLoader {
     private final ClassLoader mOriginAppClassLoader;
 
     @Keep
-    public Ld08a3hqroader(String libraryPath, ClassLoader originAppClassLoader) {
+    public Lxwcn0es9joader(String libraryPath, ClassLoader originAppClassLoader) {
         super("", libraryPath, ClassLoader.getSystemClassLoader());
         mOriginAppClassLoader = originAppClassLoader;
     }

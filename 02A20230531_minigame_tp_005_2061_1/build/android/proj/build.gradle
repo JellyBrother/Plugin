@@ -8,6 +8,8 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:4.1.0'
+        //https://github.com/qq549631030/AndroidJunkCode
+        classpath "com.github.qq549631030:android-junk-code:1.2.8"
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files

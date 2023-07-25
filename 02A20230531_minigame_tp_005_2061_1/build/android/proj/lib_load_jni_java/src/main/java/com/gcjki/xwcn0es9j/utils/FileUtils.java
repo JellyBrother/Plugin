@@ -1,4 +1,4 @@
-package com.d08a3hqr.utils;
+package com.gcjki.xwcn0es9j.utils;
 
 import android.content.Context;
 import android.text.TextUtils;

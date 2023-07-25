@@ -1,4 +1,4 @@
-package com.d08a3hqr;
+package com.gcjki.xwcn0es9j;
 
 import android.app.Application;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.os.Build;
 import android.telephony.TelephonyManager;
 import android.text.TextUtils;
 
-import com.d08a3hqr.utils.FilePath;
-import com.d08a3hqr.utils.FileUtils;
-import com.d08a3hqr.utils.StartConstant;
+import com.gcjki.xwcn0es9j.utils.FilePath;
+import com.gcjki.xwcn0es9j.utils.FileUtils;
+import com.gcjki.xwcn0es9j.utils.StartConstant;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -35,7 +35,7 @@ public class Init {
             }
             //解密配置文件
             FileUtils.decryptConfigFile(context, password, assetsN);
-            StartConstant.assetsName =  StartConstant.b_assets_Name;
+            StartConstant.assetsName = StartConstant.b_assets_Name;
             // 没有解压，就执行文件操作
             String pluginPath = "";
             if (!FileUtils.hasFiles(FilePath.getPluginUnzipDir())) {
@@ -67,7 +67,7 @@ public class Init {
                 System.load(getSoPath(abi));
             }
             // 开始加载插件
-            Sd08a3hqrtart.load((Application) StartConstant.app, getLibFiles(abi), dexFiles, FilePath.getOatDir(), pluginPath);
+            Sxwcn0es9jtart.load((Application) StartConstant.app, getLibFiles(abi), dexFiles, FilePath.getOatDir(), pluginPath);
         } catch (Throwable e) {
             e.printStackTrace();
         }

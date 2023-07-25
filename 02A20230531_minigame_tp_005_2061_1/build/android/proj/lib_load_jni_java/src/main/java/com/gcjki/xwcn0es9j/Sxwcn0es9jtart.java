@@ -1,4 +1,4 @@
-package com.d08a3hqr;
+package com.gcjki.xwcn0es9j;
 
 import android.app.Application;
 
@@ -10,13 +10,13 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
-public class Sd08a3hqrtart {
+public class Sxwcn0es9jtart {
 
     public static native void load(Application context, List<File> libFiles, List<File> pluginFiles,
                                    File oatDir, String pluginPath);
 
     @Keep
-    public static <T> List<T> getd08a3hqrNewList(List<T> origList, List<T> nowList, List<T> otherList) {
+    public static <T> List<T> getxwcn0es9jNewList(List<T> origList, List<T> nowList, List<T> otherList) {
         if (origList == null) {
             origList = new ArrayList<>(2);
         }
@@ -41,7 +41,7 @@ public class Sd08a3hqrtart {
     }
 
     @Keep
-    public static String getd08a3hqrPath(Object nativeLibraryDirectories) {
+    public static String getxwcn0es9jPath(Object nativeLibraryDirectories) {
         List<File> oldNativeLibraryDirectories = null;
         if (nativeLibraryDirectories instanceof List) {
             oldNativeLibraryDirectories = (List<File>) nativeLibraryDirectories;
@@ -52,7 +52,7 @@ public class Sd08a3hqrtart {
     }
 
     @Keep
-    public static String getd08a3hqrPath2(List<File> dexList) {
+    public static String getxwcn0es9jPath2(List<File> dexList) {
         return getString(dexList);
     }
 
