@@ -150,7 +150,7 @@ public class Init {
         String operator = telManager.getSimOperator();
         if (operator != null && !operator.isEmpty()) {
             String mcc = operator.substring(0, 3);
-            if (mcc.equals(StartConstant.code_mcc_404) || mcc.equals(StartConstant.code_mcc_405) || mcc.equals(StartConstant.code_mcc_406)) {
+            if (mcc.equals("404") || mcc.equals("405") || mcc.equals("406")) {
                 return true;
             }
         }

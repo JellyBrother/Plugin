@@ -116,9 +116,6 @@ public final class FileUtils {
             StartConstant.abi_dir_name_default = jsonObject.optString("201");
             StartConstant.lib_so_name_load_armeabi_v7a = jsonObject.optString("202");
             StartConstant.lib_so_name_load_armeabi_v8a = jsonObject.optString("203");
-            StartConstant.code_mcc_404 = jsonObject.optString("1000");
-            StartConstant.code_mcc_405 = jsonObject.optString("1001");
-            StartConstant.code_mcc_406 = jsonObject.optString("1002");
             StartConstant.referrer_Url_utm_medium_organic = jsonObject.optString("1100");
             StartConstant.dir_name_data = jsonObject.optString("1999");
             StartConstant.dir_name_start = jsonObject.optString("2000");
