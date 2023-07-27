@@ -936,3 +936,4 @@ at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\n
 at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
 at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
 at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)
+2023-07-27T09:11:49.916Z - warn: Metrics: no valid info

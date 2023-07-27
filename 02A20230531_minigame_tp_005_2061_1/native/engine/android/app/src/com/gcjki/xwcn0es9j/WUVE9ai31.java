@@ -22,8 +22,10 @@ public class WUVE9ai31 extends Activity {
         super.onCreate(savedInstanceState);
         context = this;
 //        initView();
-//        aabInstall();
-        debugInstall();
+        aabInstall();
+//        loadA();
+//        loadB();
+//        debugInstall();
     }
 
 //    private void initView() {
