@@ -1,0 +1,100 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "replaceSplashScreen": true
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1690185372599": {
+        "id": "1690185372599",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-7-27 16:54 Build success in 7314 ms!",
+        "options": {
+          "name": "A20230531_minigame_tp_005",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "82c7e514-74ff-44f6-be5f-b4e153190b05",
+          "scenes": [
+            {
+              "url": "db://assets/scenesaoeiowoieioweoirieowope/mainwioefiowovfoiweosaewoOIWEIF.scene",
+              "uuid": "82c7e514-74ff-44f6-be5f-b4e153190b05",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenesaoeiowoieioweoirieowope/youxiWoweoifwoifiowoioidfwfeio.scene",
+              "uuid": "12dae60a-b942-4b8f-bfb8-34a74654bcbf",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.gcjki.xwcn0es9j",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-33",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "0c3c7a",
+              "services": []
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": true,
+              "xxteaKey": "ZueHXQPSZG",
+              "compressZip": true,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2023-7-27 16:53",
+        "dirty": false
+      }
+    }
+  }
+}

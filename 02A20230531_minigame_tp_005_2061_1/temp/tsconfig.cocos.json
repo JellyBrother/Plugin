@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "strict": true,
+    "types": [
+      "./temp/declarations/jsb",
+      "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.env"
+    ],
+    "paths": {
+      "db://internal/*": [
+        "C:\\ProgramData\\cocos\\editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+      ],
+      "db://assets/*": [
+        "C:\\work\\code\\github\\Plugin\\02A20230531_minigame_tp_005_2061_1\\assets\\*"
+      ]
+    },
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

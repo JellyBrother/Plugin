@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "63gxoTPWxDZZui8WstT4c2@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "JSDjquxRfj4S1eew",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 426,
+                "height": 268
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 426,
+                "height": 268
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

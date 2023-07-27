@@ -1,0 +1,938 @@
+2023-05-31T02:50:06.980Z - log: [Package] menu@1.0.0 enable
+2023-05-31T02:50:06.983Z - log: [Package] profile@1.0.0 enable
+2023-05-31T02:50:06.991Z - log: [Package] project@1.0.2 enable
+2023-05-31T02:50:06.996Z - log: [Package] messages@1.0.0 enable
+2023-05-31T02:50:07.001Z - log: [Package] program@1.0.0 enable
+2023-05-31T02:50:07.006Z - log: [Package] tester@1.0.0 enable
+2023-05-31T02:50:07.011Z - log: [Package] preferences@1.0.0 enable
+2023-05-31T02:50:07.575Z - log: Setup mods mgr.: 288.06ms
+2023-05-31T02:50:07.577Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-05-31T02:50:07.587Z - verbose: [Engine] QuickCompile engine (520ms)
+2023-05-31T02:50:07.590Z - log: [Package] engine@1.0.6 enable
+2023-05-31T02:50:08.513Z - log: [Package] programming@1.0.0 enable
+2023-05-31T02:50:08.872Z - log: [Package] device@1.0.1 enable
+2023-05-31T02:50:08.907Z - log: [Package] ui-kit@1.0.1 enable
+2023-05-31T02:50:08.936Z - log: [Package] engine-extends@1.0.0 enable
+2023-05-31T02:50:09.007Z - log: [Package] asset-db@1.0.0 enable
+2023-05-31T02:50:09.044Z - log: [Package] scene@1.0.0 enable
+2023-05-31T02:50:09.207Z - log: [Package] server@1.0.0 enable
+2023-05-31T02:50:09.207Z - warn: Server: Port 7456 is occupied
+2023-05-31T02:50:09.238Z - log: [Package] utils@1.0.0 enable
+2023-05-31T02:50:12.528Z - log: [Package] preview@1.0.1 enable
+2023-05-31T02:50:12.570Z - log: [Package] animator@1.0.0 enable
+2023-05-31T02:50:13.583Z - log: Profile changed: builder (log.level: 4)
+2023-05-31T02:50:13.591Z - log: [Package] builder@1.3.2 enable
+2023-05-31T02:50:13.625Z - log: [Package] shortcuts@1.0.1 enable
+2023-05-31T02:50:13.668Z - log: [Package] animation-graph@1.0.0 enable
+2023-05-31T02:50:13.706Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-05-31T02:50:13.729Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-05-31T02:50:13.764Z - log: [Package] about@1.0.0 enable
+2023-05-31T02:50:13.810Z - log: [Package] assets@1.0.0 enable
+2023-05-31T02:50:13.857Z - log: [Package] console@1.0.0 enable
+2023-05-31T02:50:14.067Z - log: [Package] extension@3.0.16 enable
+2023-05-31T02:50:14.099Z - log: [Package] hierarchy@1.0.0 enable
+2023-05-31T02:50:14.145Z - log: [Package] inspector@1.0.0 enable
+2023-05-31T02:50:14.182Z - log: [Package] lightmap@1.0.4 enable
+2023-05-31T02:50:14.218Z - log: [Package] node-library@1.0.1 enable
+2023-05-31T02:50:14.242Z - log: [Package] package-asset@1.0.0 enable
+2023-05-31T02:50:14.275Z - log: [Package] process@1.0.0 enable
+2023-05-31T02:50:14.317Z - log: [Package] reference-image@1.0.0 enable
+2023-05-31T02:50:14.339Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-05-31T02:50:14.351Z - verbose: [AssetDB] Require engine code (1197ms)
+2023-05-31T02:50:14.369Z - log: [Package] android@1.0.0 enable
+2023-05-31T02:50:14.398Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-05-31T02:50:14.430Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-05-31T02:50:14.460Z - log: [Package] cocos-play@1.0.0 enable
+2023-05-31T02:50:14.493Z - log: [Package] huawei-agc@1.0.0 enable
+2023-05-31T02:50:14.525Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-05-31T02:50:14.561Z - log: [Package] ios@1.0.0 enable
+2023-05-31T02:50:14.587Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-05-31T02:50:14.618Z - log: [Package] link-sure@1.0.0 enable
+2023-05-31T02:50:14.649Z - log: [Package] linux@1.0.0 enable
+2023-05-31T02:50:14.682Z - log: [Package] mac@1.0.0 enable
+2023-05-31T02:50:14.800Z - log: [Package] native@1.0.0 enable
+2023-05-31T02:50:14.825Z - log: [Package] ohos@1.0.0 enable
+2023-05-31T02:50:14.856Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-05-31T02:50:14.888Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-05-31T02:50:14.920Z - log: [Package] qtt@1.0.0 enable
+2023-05-31T02:50:14.952Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-05-31T02:50:14.996Z - log: [Package] web-desktop@1.0.0 enable
+2023-05-31T02:50:15.043Z - log: [Package] web-mobile@1.0.0 enable
+2023-05-31T02:50:15.090Z - log: [Package] wechatgame@1.0.1 enable
+2023-05-31T02:50:15.125Z - log: [Package] windows@1.0.0 enable
+2023-05-31T02:50:15.150Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-05-31T02:50:15.438Z - log: [Package] cocos-service@3.0.3 enable
+2023-05-31T02:50:15.488Z - log: [Package] importer@1.0.0 enable
+2023-05-31T02:50:15.781Z - log: [Im-plugin] Check im-plugin version.
+2023-05-31T02:50:15.794Z - log: [Package] im-plugin@3.0.8 enable
+2023-05-31T02:50:16.526Z - log: [Im-plugin] No online info of im-plugin.
+2023-05-31T02:50:17.959Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-05-31T02:50:25.583Z - verbose: [Scene] Require engine code (1ms)
+2023-05-31T02:50:25.583Z - verbose: [Scene] Startup engine (0ms)
+2023-05-31T02:50:25.608Z - log: [Scene] Cocos Creator v3.5.2
+2023-05-31T02:50:26.520Z - verbose: [Scene] Open engine (937ms)
+2023-05-31T02:50:26.520Z - verbose: [Scene] Configure engine (0ms)
+2023-05-31T02:50:26.043Z - info: [Scene] Forward render pipeline initialized.
+2023-05-31T03:11:23.241Z - warn: Metrics: no valid info
+2023-05-31T03:14:50.460Z - log: [Package] menu@1.0.0 enable
+2023-05-31T03:14:50.462Z - log: [Package] profile@1.0.0 enable
+2023-05-31T03:14:50.469Z - log: [Package] project@1.0.2 enable
+2023-05-31T03:14:50.474Z - log: [Package] messages@1.0.0 enable
+2023-05-31T03:14:50.477Z - log: [Package] program@1.0.0 enable
+2023-05-31T03:14:50.482Z - log: [Package] tester@1.0.0 enable
+2023-05-31T03:14:50.486Z - log: [Package] preferences@1.0.0 enable
+2023-05-31T03:14:51.035Z - log: Setup mods mgr.: 276.294ms
+2023-05-31T03:14:51.037Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-05-31T03:14:51.046Z - verbose: [Engine] QuickCompile engine (500ms)
+2023-05-31T03:14:51.054Z - log: [Package] engine@1.0.6 enable
+2023-05-31T03:14:51.966Z - log: [Package] programming@1.0.0 enable
+2023-05-31T03:14:52.322Z - log: [Package] device@1.0.1 enable
+2023-05-31T03:14:52.358Z - log: [Package] ui-kit@1.0.1 enable
+2023-05-31T03:14:52.386Z - log: [Package] engine-extends@1.0.0 enable
+2023-05-31T03:14:52.447Z - log: [Package] asset-db@1.0.0 enable
+2023-05-31T03:14:52.482Z - log: [Package] scene@1.0.0 enable
+2023-05-31T03:14:52.638Z - log: [Package] server@1.0.0 enable
+2023-05-31T03:14:52.666Z - log: [Package] utils@1.0.0 enable
+2023-05-31T03:14:55.817Z - log: [Package] preview@1.0.1 enable
+2023-05-31T03:14:55.849Z - log: [Package] animator@1.0.0 enable
+2023-05-31T03:14:56.851Z - log: [Package] builder@1.3.2 enable
+2023-05-31T03:14:56.884Z - log: [Package] shortcuts@1.0.1 enable
+2023-05-31T03:14:56.915Z - log: [Package] animation-graph@1.0.0 enable
+2023-05-31T03:14:56.953Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-05-31T03:14:56.984Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-05-31T03:14:57.023Z - log: [Package] about@1.0.0 enable
+2023-05-31T03:14:57.057Z - log: [Package] assets@1.0.0 enable
+2023-05-31T03:14:57.103Z - log: [Package] console@1.0.0 enable
+2023-05-31T03:14:57.278Z - log: [Package] extension@3.0.16 enable
+2023-05-31T03:14:57.310Z - log: [Package] hierarchy@1.0.0 enable
+2023-05-31T03:14:57.344Z - log: [Package] inspector@1.0.0 enable
+2023-05-31T03:14:57.389Z - log: [Package] lightmap@1.0.4 enable
+2023-05-31T03:14:57.423Z - log: [Package] node-library@1.0.1 enable
+2023-05-31T03:14:57.437Z - verbose: [AssetDB] Require engine code (1086ms)
+2023-05-31T03:14:57.444Z - log: [Package] package-asset@1.0.0 enable
+2023-05-31T03:14:57.477Z - log: [Package] process@1.0.0 enable
+2023-05-31T03:14:57.517Z - log: [Package] reference-image@1.0.0 enable
+2023-05-31T03:14:57.539Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-05-31T03:14:57.563Z - log: [Package] android@1.0.0 enable
+2023-05-31T03:14:57.600Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-05-31T03:14:57.631Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-05-31T03:14:57.663Z - log: [Package] cocos-play@1.0.0 enable
+2023-05-31T03:14:57.694Z - log: [Package] huawei-agc@1.0.0 enable
+2023-05-31T03:14:57.726Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-05-31T03:14:57.761Z - log: [Package] ios@1.0.0 enable
+2023-05-31T03:14:57.788Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-05-31T03:14:57.820Z - log: [Package] link-sure@1.0.0 enable
+2023-05-31T03:14:57.850Z - log: [Package] linux@1.0.0 enable
+2023-05-31T03:14:57.882Z - log: [Package] mac@1.0.0 enable
+2023-05-31T03:14:57.993Z - log: [Package] native@1.0.0 enable
+2023-05-31T03:14:58.026Z - log: [Package] ohos@1.0.0 enable
+2023-05-31T03:14:58.050Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-05-31T03:14:58.073Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-05-31T03:14:58.105Z - log: [Package] qtt@1.0.0 enable
+2023-05-31T03:14:58.136Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-05-31T03:14:58.178Z - log: [Package] web-desktop@1.0.0 enable
+2023-05-31T03:14:58.225Z - log: [Package] web-mobile@1.0.0 enable
+2023-05-31T03:14:58.273Z - log: [Package] wechatgame@1.0.1 enable
+2023-05-31T03:14:58.309Z - log: [Package] windows@1.0.0 enable
+2023-05-31T03:14:58.342Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-05-31T03:14:58.590Z - log: [Package] cocos-service@3.0.3 enable
+2023-05-31T03:14:58.638Z - log: [Package] importer@1.0.0 enable
+2023-05-31T03:14:58.923Z - log: [Im-plugin] Check im-plugin version.
+2023-05-31T03:14:58.934Z - log: [Package] im-plugin@3.0.8 enable
+2023-05-31T03:14:59.682Z - log: [Im-plugin] No online info of im-plugin.
+2023-05-31T03:15:00.891Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-05-31T03:15:01.549Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-05-31T03:15:02.716Z - verbose: [Scene] Require engine code (0ms)
+2023-05-31T03:15:02.717Z - verbose: [Scene] Startup engine (0ms)
+2023-05-31T03:15:02.737Z - log: [Scene] Cocos Creator v3.5.2
+2023-05-31T03:15:03.366Z - verbose: [Scene] Open engine (649ms)
+2023-05-31T03:15:03.367Z - verbose: [Scene] Configure engine (0ms)
+2023-05-31T03:15:02.830Z - info: [Scene] Forward render pipeline initialized.
+2023-05-31T04:31:59.649Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'activeInHierarchy') in http://localhost:7456/scripting/x/chunks/e3/e369ef85956ef7ef4ea301cbe6cd8848f5be15eb.js
+2023-05-31T04:33:05.137Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'activeInHierarchy') in http://localhost:7456/scripting/x/chunks/00/008e03cdab7a18793903c7a249f8959b5e55e72b.js
+2023-05-31T08:09:05.961Z - warn: [Scene] Reference "mubiaorongqiNNshangWoisoeowoefos" of "UYVHhjwnPrefabmovecar<paiYidongowoefowfowwoiew>" to external scene object "XINMcXdS1xbkE0" can not be saved in prefab asset.Error: [Scene] Reference "mubiaorongqiNNshangWoisoeowoefos" of "UYVHhjwnPrefabmovecar<paiYidongowoefowfowwoiew>" to external scene object "XINMcXdS1xbkE0" can not be saved in prefab asset.
+    at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:2165
+    at o (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:666)
+    at visitObjTypeReferences (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:716)
+    at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:1872
+    at walkNode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:318)
+    at Object.checkAndStripNode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\utils\prefab.ccc:1:1696)
+    at PrefabUtil.generatePrefabDumpableNode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\prefab\utils.ccc:1:4105)
+2023-05-31T11:51:32.676Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/46/469f65b4cd9296b97d730697393495a8c75fe197.js
+2023-05-31T12:23:07.229Z - warn: Metrics: no valid info
+2023-05-31T12:23:25.379Z - log: [Package] menu@1.0.0 enable
+2023-05-31T12:23:25.381Z - log: [Package] profile@1.0.0 enable
+2023-05-31T12:23:25.389Z - log: [Package] project@1.0.2 enable
+2023-05-31T12:23:25.394Z - log: [Package] messages@1.0.0 enable
+2023-05-31T12:23:25.396Z - log: [Package] program@1.0.0 enable
+2023-05-31T12:23:25.402Z - log: [Package] tester@1.0.0 enable
+2023-05-31T12:23:25.407Z - log: [Package] preferences@1.0.0 enable
+2023-05-31T12:23:25.969Z - log: Setup mods mgr.: 282.193ms
+2023-05-31T12:23:25.972Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-05-31T12:23:25.981Z - verbose: [Engine] QuickCompile engine (521ms)
+2023-05-31T12:23:25.984Z - log: [Package] engine@1.0.6 enable
+2023-05-31T12:23:26.900Z - log: [Package] programming@1.0.0 enable
+2023-05-31T12:23:27.260Z - log: [Package] device@1.0.1 enable
+2023-05-31T12:23:27.296Z - log: [Package] ui-kit@1.0.1 enable
+2023-05-31T12:23:27.323Z - log: [Package] engine-extends@1.0.0 enable
+2023-05-31T12:23:27.398Z - log: [Package] asset-db@1.0.0 enable
+2023-05-31T12:23:27.434Z - log: [Package] scene@1.0.0 enable
+2023-05-31T12:23:27.604Z - log: [Package] server@1.0.0 enable
+2023-05-31T12:23:27.634Z - log: [Package] utils@1.0.0 enable
+2023-05-31T12:23:30.842Z - log: [Package] preview@1.0.1 enable
+2023-05-31T12:23:30.874Z - log: [Package] animator@1.0.0 enable
+2023-05-31T12:23:31.866Z - log: [Package] builder@1.3.2 enable
+2023-05-31T12:23:31.898Z - log: [Package] shortcuts@1.0.1 enable
+2023-05-31T12:23:31.934Z - log: [Package] animation-graph@1.0.0 enable
+2023-05-31T12:23:31.957Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-05-31T12:23:31.979Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-05-31T12:23:32.011Z - log: [Package] about@1.0.0 enable
+2023-05-31T12:23:32.045Z - log: [Package] assets@1.0.0 enable
+2023-05-31T12:23:32.076Z - log: [Package] console@1.0.0 enable
+2023-05-31T12:23:32.257Z - log: [Package] extension@3.0.16 enable
+2023-05-31T12:23:32.288Z - log: [Package] hierarchy@1.0.0 enable
+2023-05-31T12:23:32.334Z - log: [Package] inspector@1.0.0 enable
+2023-05-31T12:23:32.366Z - log: [Package] lightmap@1.0.4 enable
+2023-05-31T12:23:32.399Z - log: [Package] node-library@1.0.1 enable
+2023-05-31T12:23:32.422Z - log: [Package] package-asset@1.0.0 enable
+2023-05-31T12:23:32.453Z - log: [Package] process@1.0.0 enable
+2023-05-31T12:23:32.478Z - verbose: [AssetDB] Require engine code (1073ms)
+2023-05-31T12:23:32.488Z - log: [Package] reference-image@1.0.0 enable
+2023-05-31T12:23:32.513Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-05-31T12:23:32.537Z - log: [Package] android@1.0.0 enable
+2023-05-31T12:23:32.576Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-05-31T12:23:32.607Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-05-31T12:23:32.638Z - log: [Package] cocos-play@1.0.0 enable
+2023-05-31T12:23:32.671Z - log: [Package] huawei-agc@1.0.0 enable
+2023-05-31T12:23:32.703Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-05-31T12:23:32.737Z - log: [Package] ios@1.0.0 enable
+2023-05-31T12:23:32.765Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-05-31T12:23:32.797Z - log: [Package] link-sure@1.0.0 enable
+2023-05-31T12:23:32.828Z - log: [Package] linux@1.0.0 enable
+2023-05-31T12:23:32.861Z - log: [Package] mac@1.0.0 enable
+2023-05-31T12:23:32.977Z - log: [Package] native@1.0.0 enable
+2023-05-31T12:23:33.001Z - log: [Package] ohos@1.0.0 enable
+2023-05-31T12:23:33.033Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-05-31T12:23:33.066Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-05-31T12:23:33.095Z - log: [Package] qtt@1.0.0 enable
+2023-05-31T12:23:33.120Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-05-31T12:23:33.169Z - log: [Package] web-desktop@1.0.0 enable
+2023-05-31T12:23:33.218Z - log: [Package] web-mobile@1.0.0 enable
+2023-05-31T12:23:33.252Z - log: [Package] wechatgame@1.0.1 enable
+2023-05-31T12:23:33.276Z - log: [Package] windows@1.0.0 enable
+2023-05-31T12:23:33.299Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-05-31T12:23:33.567Z - log: [Package] cocos-service@3.0.3 enable
+2023-05-31T12:23:33.617Z - log: [Package] importer@1.0.0 enable
+2023-05-31T12:23:33.905Z - log: [Im-plugin] Check im-plugin version.
+2023-05-31T12:23:33.916Z - log: [Package] im-plugin@3.0.8 enable
+2023-05-31T12:23:34.659Z - log: [Im-plugin] No online info of im-plugin.
+2023-05-31T12:23:35.891Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-05-31T12:23:37.531Z - verbose: [Scene] Require engine code (1ms)
+2023-05-31T12:23:37.532Z - verbose: [Scene] Startup engine (1ms)
+2023-05-31T12:23:37.555Z - log: [Scene] Cocos Creator v3.5.2
+2023-05-31T12:23:37.999Z - verbose: [Scene] Open engine (467ms)
+2023-05-31T12:23:37.999Z - verbose: [Scene] Configure engine (0ms)
+2023-05-31T12:23:37.617Z - info: [Scene] Forward render pipeline initialized.
+2023-05-31T12:25:29.742Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-05-31T12:26:28.186Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/ea/eada47a93b845fc279adcc61125d70e52a4291a5.js
+2023-05-31T12:27:34.356Z - warn: Metrics: no valid info
+2023-05-31T13:21:28.000Z - log: [Package] menu@1.0.0 enable
+2023-05-31T13:21:28.002Z - log: [Package] profile@1.0.0 enable
+2023-05-31T13:21:28.009Z - log: [Package] project@1.0.2 enable
+2023-05-31T13:21:28.014Z - log: [Package] messages@1.0.0 enable
+2023-05-31T13:21:28.016Z - log: [Package] program@1.0.0 enable
+2023-05-31T13:21:28.021Z - log: [Package] tester@1.0.0 enable
+2023-05-31T13:21:28.025Z - log: [Package] preferences@1.0.0 enable
+2023-05-31T13:21:28.551Z - log: Setup mods mgr.: 285.201ms
+2023-05-31T13:21:28.552Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-05-31T13:21:28.562Z - verbose: [Engine] QuickCompile engine (490ms)
+2023-05-31T13:21:28.567Z - log: [Package] engine@1.0.6 enable
+2023-05-31T13:21:29.479Z - log: [Package] programming@1.0.0 enable
+2023-05-31T13:21:29.820Z - log: [Package] device@1.0.1 enable
+2023-05-31T13:21:29.855Z - log: [Package] ui-kit@1.0.1 enable
+2023-05-31T13:21:29.883Z - log: [Package] engine-extends@1.0.0 enable
+2023-05-31T13:21:29.939Z - log: [Package] asset-db@1.0.0 enable
+2023-05-31T13:21:29.976Z - log: [Package] scene@1.0.0 enable
+2023-05-31T13:21:30.114Z - log: [Package] server@1.0.0 enable
+2023-05-31T13:21:30.143Z - log: [Package] utils@1.0.0 enable
+2023-05-31T13:21:33.029Z - log: [Package] preview@1.0.1 enable
+2023-05-31T13:21:33.057Z - log: [Package] animator@1.0.0 enable
+2023-05-31T13:21:34.060Z - log: [Package] builder@1.3.2 enable
+2023-05-31T13:21:34.091Z - log: [Package] shortcuts@1.0.1 enable
+2023-05-31T13:21:34.135Z - log: [Package] animation-graph@1.0.0 enable
+2023-05-31T13:21:34.158Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-05-31T13:21:34.180Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-05-31T13:21:34.213Z - log: [Package] about@1.0.0 enable
+2023-05-31T13:21:34.248Z - log: [Package] assets@1.0.0 enable
+2023-05-31T13:21:34.293Z - log: [Package] console@1.0.0 enable
+2023-05-31T13:21:34.449Z - log: [Package] extension@3.0.16 enable
+2023-05-31T13:21:34.481Z - log: [Package] hierarchy@1.0.0 enable
+2023-05-31T13:21:34.528Z - log: [Package] inspector@1.0.0 enable
+2023-05-31T13:21:34.575Z - log: [Package] lightmap@1.0.4 enable
+2023-05-31T13:21:34.608Z - log: [Package] node-library@1.0.1 enable
+2023-05-31T13:21:34.632Z - log: [Package] package-asset@1.0.0 enable
+2023-05-31T13:21:34.664Z - log: [Package] process@1.0.0 enable
+2023-05-31T13:21:34.817Z - log: [Package] reference-image@1.0.0 enable
+2023-05-31T13:21:34.818Z - verbose: [AssetDB] Require engine code (1116ms)
+2023-05-31T13:21:34.843Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-05-31T13:21:34.873Z - log: [Package] android@1.0.0 enable
+2023-05-31T13:21:34.904Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-05-31T13:21:34.934Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-05-31T13:21:34.965Z - log: [Package] cocos-play@1.0.0 enable
+2023-05-31T13:21:34.996Z - log: [Package] huawei-agc@1.0.0 enable
+2023-05-31T13:21:35.025Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-05-31T13:21:35.060Z - log: [Package] ios@1.0.0 enable
+2023-05-31T13:21:35.088Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-05-31T13:21:35.120Z - log: [Package] link-sure@1.0.0 enable
+2023-05-31T13:21:35.150Z - log: [Package] linux@1.0.0 enable
+2023-05-31T13:21:35.183Z - log: [Package] mac@1.0.0 enable
+2023-05-31T13:21:35.286Z - log: [Package] native@1.0.0 enable
+2023-05-31T13:21:35.322Z - log: [Package] ohos@1.0.0 enable
+2023-05-31T13:21:35.354Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-05-31T13:21:35.385Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-05-31T13:21:35.409Z - log: [Package] qtt@1.0.0 enable
+2023-05-31T13:21:35.447Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-05-31T13:21:35.491Z - log: [Package] web-desktop@1.0.0 enable
+2023-05-31T13:21:35.531Z - log: [Package] web-mobile@1.0.0 enable
+2023-05-31T13:21:35.566Z - log: [Package] wechatgame@1.0.1 enable
+2023-05-31T13:21:35.590Z - log: [Package] windows@1.0.0 enable
+2023-05-31T13:21:35.612Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-05-31T13:21:35.850Z - log: [Package] cocos-service@3.0.3 enable
+2023-05-31T13:21:35.891Z - log: [Package] importer@1.0.0 enable
+2023-05-31T13:21:36.123Z - log: [Im-plugin] Check im-plugin version.
+2023-05-31T13:21:36.136Z - log: [Package] im-plugin@3.0.8 enable
+2023-05-31T13:21:36.738Z - log: [Im-plugin] No online info of im-plugin.
+2023-05-31T13:21:38.202Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-05-31T13:21:39.934Z - verbose: [Scene] Require engine code (1ms)
+2023-05-31T13:21:39.935Z - verbose: [Scene] Startup engine (0ms)
+2023-05-31T13:21:39.957Z - log: [Scene] Cocos Creator v3.5.2
+2023-05-31T13:21:40.417Z - verbose: [Scene] Open engine (482ms)
+2023-05-31T13:21:40.417Z - verbose: [Scene] Configure engine (0ms)
+2023-05-31T13:21:40.020Z - info: [Scene] Forward render pipeline initialized.
+2023-05-31T13:21:52.983Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-05-31T14:32:20.704Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/cf/cfc17ea2a9fe935fe806babddc0a2ab42ae69143.js
+2023-05-31T14:34:09.890Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/64/64cf6206435c83dc72d4e4a7cd7fc3c8bfd8e218.js
+2023-05-31T15:21:41.641Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'children') in http://localhost:7456/scripting/x/chunks/9d/9d286117ba9ddf8ce630a318f4117dd0800130ec.js
+2023-05-31T17:03:54.634Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'children') in http://localhost:7456/scripting/x/chunks/9d/9d286117ba9ddf8ce630a318f4117dd0800130ec.js
+2023-05-31T17:07:27.097Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'children') in http://localhost:7456/scripting/x/chunks/9d/9d286117ba9ddf8ce630a318f4117dd0800130ec.js
+2023-06-01T01:58:36.628Z - warn: Metrics: no valid info
+2023-06-01T16:13:33.155Z - log: [Package] menu@1.0.0 enable
+2023-06-01T16:13:33.157Z - log: [Package] profile@1.0.0 enable
+2023-06-01T16:13:33.167Z - log: [Package] project@1.0.2 enable
+2023-06-01T16:13:33.173Z - log: [Package] messages@1.0.0 enable
+2023-06-01T16:13:33.176Z - log: [Package] program@1.0.0 enable
+2023-06-01T16:13:33.182Z - log: [Package] tester@1.0.0 enable
+2023-06-01T16:13:33.188Z - log: [Package] preferences@1.0.0 enable
+2023-06-01T16:13:33.783Z - log: Setup mods mgr.: 320.258ms
+2023-06-01T16:13:33.785Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-06-01T16:13:33.797Z - verbose: [Engine] QuickCompile engine (556ms)
+2023-06-01T16:13:33.800Z - log: [Package] engine@1.0.6 enable
+2023-06-01T16:13:34.996Z - log: [Package] programming@1.0.0 enable
+2023-06-01T16:13:35.385Z - log: [Package] device@1.0.1 enable
+2023-06-01T16:13:35.424Z - log: [Package] ui-kit@1.0.1 enable
+2023-06-01T16:13:35.449Z - log: [Package] engine-extends@1.0.0 enable
+2023-06-01T16:13:35.509Z - log: [Package] asset-db@1.0.0 enable
+2023-06-01T16:13:35.547Z - log: [Package] scene@1.0.0 enable
+2023-06-01T16:13:35.694Z - log: [Package] server@1.0.0 enable
+2023-06-01T16:13:35.729Z - log: [Package] utils@1.0.0 enable
+2023-06-01T16:13:38.945Z - log: [Package] preview@1.0.1 enable
+2023-06-01T16:13:38.983Z - log: [Package] animator@1.0.0 enable
+2023-06-01T16:13:40.336Z - log: [Package] builder@1.3.2 enable
+2023-06-01T16:13:40.369Z - log: [Package] shortcuts@1.0.1 enable
+2023-06-01T16:13:40.414Z - log: [Package] animation-graph@1.0.0 enable
+2023-06-01T16:13:40.436Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-06-01T16:13:40.458Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-06-01T16:13:40.493Z - log: [Package] about@1.0.0 enable
+2023-06-01T16:13:40.528Z - log: [Package] assets@1.0.0 enable
+2023-06-01T16:13:40.561Z - log: [Package] console@1.0.0 enable
+2023-06-01T16:13:40.737Z - log: [Package] extension@3.0.16 enable
+2023-06-01T16:13:40.770Z - log: [Package] hierarchy@1.0.0 enable
+2023-06-01T16:13:40.806Z - log: [Package] inspector@1.0.0 enable
+2023-06-01T16:13:40.839Z - log: [Package] lightmap@1.0.4 enable
+2023-06-01T16:13:40.875Z - log: [Package] node-library@1.0.1 enable
+2023-06-01T16:13:40.875Z - verbose: [AssetDB] Require engine code (1297ms)
+2023-06-01T16:13:40.898Z - log: [Package] package-asset@1.0.0 enable
+2023-06-01T16:13:40.944Z - log: [Package] process@1.0.0 enable
+2023-06-01T16:13:40.993Z - log: [Package] reference-image@1.0.0 enable
+2023-06-01T16:13:41.028Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-06-01T16:13:41.061Z - log: [Package] android@1.0.0 enable
+2023-06-01T16:13:41.092Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-06-01T16:13:41.125Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-06-01T16:13:41.157Z - log: [Package] cocos-play@1.0.0 enable
+2023-06-01T16:13:41.189Z - log: [Package] huawei-agc@1.0.0 enable
+2023-06-01T16:13:41.221Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-06-01T16:13:41.255Z - log: [Package] ios@1.0.0 enable
+2023-06-01T16:13:41.285Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-06-01T16:13:41.315Z - log: [Package] link-sure@1.0.0 enable
+2023-06-01T16:13:41.347Z - log: [Package] linux@1.0.0 enable
+2023-06-01T16:13:41.380Z - log: [Package] mac@1.0.0 enable
+2023-06-01T16:13:41.490Z - log: [Package] native@1.0.0 enable
+2023-06-01T16:13:41.514Z - log: [Package] ohos@1.0.0 enable
+2023-06-01T16:13:41.540Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-06-01T16:13:41.572Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-06-01T16:13:41.604Z - log: [Package] qtt@1.0.0 enable
+2023-06-01T16:13:41.636Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-06-01T16:13:41.682Z - log: [Package] web-desktop@1.0.0 enable
+2023-06-01T16:13:41.730Z - log: [Package] web-mobile@1.0.0 enable
+2023-06-01T16:13:41.782Z - log: [Package] wechatgame@1.0.1 enable
+2023-06-01T16:13:41.812Z - log: [Package] windows@1.0.0 enable
+2023-06-01T16:13:41.843Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-06-01T16:13:42.093Z - log: [Package] cocos-service@3.0.3 enable
+2023-06-01T16:13:42.146Z - log: [Package] importer@1.0.0 enable
+2023-06-01T16:13:42.419Z - log: [Im-plugin] Check im-plugin version.
+2023-06-01T16:13:42.432Z - log: [Package] im-plugin@3.0.8 enable
+2023-06-01T16:13:43.020Z - log: [Im-plugin] No online info of im-plugin.
+2023-06-01T16:13:45.057Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at D:\Cocoscreator\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-06-01T16:13:55.883Z - verbose: [Scene] Require engine code (1ms)
+2023-06-01T16:13:55.886Z - verbose: [Scene] Startup engine (2ms)
+2023-06-01T16:13:55.913Z - log: [Scene] Cocos Creator v3.5.2
+2023-06-01T16:13:56.499Z - verbose: [Scene] Open engine (613ms)
+2023-06-01T16:13:56.500Z - verbose: [Scene] Configure engine (0ms)
+2023-06-01T16:13:55.983Z - info: [Scene] Forward render pipeline initialized.
+2023-06-01T16:19:49.933Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-06-01T16:21:51.620Z - warn: Metrics: no valid info
+2023-07-24T07:46:04.732Z - log: [Package] menu@1.0.0 enable
+2023-07-24T07:46:04.734Z - log: [Package] profile@1.0.0 enable
+2023-07-24T07:46:04.746Z - log: [Package] project@1.0.2 enable
+2023-07-24T07:46:04.751Z - log: [Package] messages@1.0.0 enable
+2023-07-24T07:46:04.770Z - log: [Package] program@1.0.0 enable
+2023-07-24T07:46:04.775Z - log: [Package] tester@1.0.0 enable
+2023-07-24T07:46:04.783Z - log: [Package] preferences@1.0.0 enable
+2023-07-24T07:46:05.756Z - log: Setup mods mgr.: 610.399ms
+2023-07-24T07:46:05.764Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-07-24T07:46:05.772Z - verbose: [Engine] QuickCompile engine (926ms)
+2023-07-24T07:46:05.778Z - log: [Package] engine@1.0.6 enable
+2023-07-24T07:46:06.667Z - log: [Package] programming@1.0.0 enable
+2023-07-24T07:46:07.124Z - log: [Package] device@1.0.1 enable
+2023-07-24T07:46:07.159Z - log: [Package] ui-kit@1.0.1 enable
+2023-07-24T07:46:07.188Z - log: [Package] engine-extends@1.0.0 enable
+2023-07-24T07:46:07.259Z - log: [Package] asset-db@1.0.0 enable
+2023-07-24T07:46:07.295Z - log: [Package] scene@1.0.0 enable
+2023-07-24T07:46:07.497Z - log: [Package] server@1.0.0 enable
+2023-07-24T07:46:07.591Z - log: [Package] utils@1.0.0 enable
+2023-07-24T07:46:11.094Z - log: [Package] preview@1.0.1 enable
+2023-07-24T07:46:11.132Z - log: [Package] animator@1.0.0 enable
+2023-07-24T07:46:12.070Z - log: [Package] builder@1.3.2 enable
+2023-07-24T07:46:12.103Z - log: [Package] shortcuts@1.0.1 enable
+2023-07-24T07:46:12.140Z - log: [Package] animation-graph@1.0.0 enable
+2023-07-24T07:46:12.162Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-07-24T07:46:12.185Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-07-24T07:46:12.214Z - log: [Package] about@1.0.0 enable
+2023-07-24T07:46:12.250Z - log: [Package] assets@1.0.0 enable
+2023-07-24T07:46:12.296Z - log: [Package] console@1.0.0 enable
+2023-07-24T07:46:12.471Z - log: [Package] extension@3.0.16 enable
+2023-07-24T07:46:12.503Z - log: [Package] hierarchy@1.0.0 enable
+2023-07-24T07:46:12.551Z - log: [Package] inspector@1.0.0 enable
+2023-07-24T07:46:12.597Z - log: [Package] lightmap@1.0.4 enable
+2023-07-24T07:46:12.630Z - log: [Package] node-library@1.0.1 enable
+2023-07-24T07:46:12.666Z - log: [Package] package-asset@1.0.0 enable
+2023-07-24T07:46:12.707Z - log: [Package] process@1.0.0 enable
+2023-07-24T07:46:12.740Z - log: [Package] reference-image@1.0.0 enable
+2023-07-24T07:46:12.777Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-07-24T07:46:12.810Z - log: [Package] android@1.0.0 enable
+2023-07-24T07:46:12.841Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-07-24T07:46:12.873Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-07-24T07:46:12.905Z - log: [Package] cocos-play@1.0.0 enable
+2023-07-24T07:46:12.935Z - log: [Package] huawei-agc@1.0.0 enable
+2023-07-24T07:46:12.967Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-07-24T07:46:13.000Z - log: [Package] ios@1.0.0 enable
+2023-07-24T07:46:13.029Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-07-24T07:46:13.060Z - log: [Package] link-sure@1.0.0 enable
+2023-07-24T07:46:13.092Z - log: [Package] linux@1.0.0 enable
+2023-07-24T07:46:13.125Z - log: [Package] mac@1.0.0 enable
+2023-07-24T07:46:13.232Z - log: [Package] native@1.0.0 enable
+2023-07-24T07:46:13.267Z - log: [Package] ohos@1.0.0 enable
+2023-07-24T07:46:13.297Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-07-24T07:46:13.329Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-07-24T07:46:13.360Z - log: [Package] qtt@1.0.0 enable
+2023-07-24T07:46:13.392Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-07-24T07:46:13.435Z - log: [Package] web-desktop@1.0.0 enable
+2023-07-24T07:46:13.483Z - log: [Package] web-mobile@1.0.0 enable
+2023-07-24T07:46:13.530Z - log: [Package] wechatgame@1.0.1 enable
+2023-07-24T07:46:13.567Z - log: [Package] windows@1.0.0 enable
+2023-07-24T07:46:13.598Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-07-24T07:46:17.257Z - log: [Package] cocos-service@3.0.7 enable
+2023-07-24T07:46:17.340Z - log: [Package] importer@1.0.0 enable
+2023-07-24T07:46:17.615Z - log: [Im-plugin] Check im-plugin version.
+2023-07-24T07:46:17.626Z - log: [Package] im-plugin@3.0.8 enable
+2023-07-24T07:46:17.643Z - verbose: [AssetDB] Require engine code (5805ms)
+2023-07-24T07:46:18.441Z - log: [Im-plugin] No online info of im-plugin.
+2023-07-24T07:46:22.279Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-07-24T07:46:29.017Z - verbose: [Scene] Require engine code (1ms)
+2023-07-24T07:46:29.018Z - verbose: [Scene] Startup engine (1ms)
+2023-07-24T07:46:29.040Z - log: [Scene] Cocos Creator v3.5.2
+2023-07-24T07:46:29.199Z - verbose: [Scene] Open engine (180ms)
+2023-07-24T07:46:29.199Z - verbose: [Scene] Configure engine (1ms)
+2023-07-24T07:46:29.108Z - info: [Scene] Forward render pipeline initialized.
+2023-07-24T07:56:14.723Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\node.js:373:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\index.js:432:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:174:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:214:27)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\core\lib\config\resolve-targets.js:58:50)
+2023-07-24T07:56:16.454Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\node.js:351:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\index.js:431:7)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\targets-parser.js:39:18  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\compat.js:28:25  
+at Object.default (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-builder\index.js:35:26)
+2023-07-24T07:56:18.381Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)
+2023-07-24T07:57:38.012Z - warn: Metrics: no valid info
+2023-07-26T01:49:35.382Z - log: [Package] menu@1.0.0 enable
+2023-07-26T01:49:35.384Z - log: [Package] profile@1.0.0 enable
+2023-07-26T01:49:35.398Z - log: [Package] project@1.0.2 enable
+2023-07-26T01:49:35.403Z - log: [Package] messages@1.0.0 enable
+2023-07-26T01:49:35.419Z - log: [Package] program@1.0.0 enable
+2023-07-26T01:49:35.424Z - log: [Package] tester@1.0.0 enable
+2023-07-26T01:49:35.429Z - log: [Package] preferences@1.0.0 enable
+2023-07-26T01:49:36.361Z - log: Setup mods mgr.: 576.195ms
+2023-07-26T01:49:36.369Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-07-26T01:49:36.377Z - verbose: [Engine] QuickCompile engine (894ms)
+2023-07-26T01:49:36.382Z - log: [Package] engine@1.0.6 enable
+2023-07-26T01:49:37.216Z - log: [Package] programming@1.0.0 enable
+2023-07-26T01:49:37.721Z - log: [Package] device@1.0.1 enable
+2023-07-26T01:49:37.755Z - log: [Package] ui-kit@1.0.1 enable
+2023-07-26T01:49:37.782Z - log: [Package] engine-extends@1.0.0 enable
+2023-07-26T01:49:37.841Z - log: [Package] asset-db@1.0.0 enable
+2023-07-26T01:49:37.877Z - log: [Package] scene@1.0.0 enable
+2023-07-26T01:49:38.033Z - log: [Package] server@1.0.0 enable
+2023-07-26T01:49:38.101Z - log: [Package] utils@1.0.0 enable
+2023-07-26T01:49:41.370Z - log: [Package] preview@1.0.1 enable
+2023-07-26T01:49:41.400Z - log: [Package] animator@1.0.0 enable
+2023-07-26T01:49:42.306Z - log: [Package] builder@1.3.2 enable
+2023-07-26T01:49:42.338Z - log: [Package] shortcuts@1.0.1 enable
+2023-07-26T01:49:42.374Z - log: [Package] animation-graph@1.0.0 enable
+2023-07-26T01:49:42.398Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-07-26T01:49:42.428Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-07-26T01:49:42.465Z - log: [Package] about@1.0.0 enable
+2023-07-26T01:49:42.500Z - log: [Package] assets@1.0.0 enable
+2023-07-26T01:49:42.545Z - log: [Package] console@1.0.0 enable
+2023-07-26T01:49:42.715Z - log: [Package] extension@3.0.16 enable
+2023-07-26T01:49:42.756Z - log: [Package] hierarchy@1.0.0 enable
+2023-07-26T01:49:42.802Z - log: [Package] inspector@1.0.0 enable
+2023-07-26T01:49:42.835Z - log: [Package] lightmap@1.0.4 enable
+2023-07-26T01:49:42.868Z - log: [Package] node-library@1.0.1 enable
+2023-07-26T01:49:42.892Z - log: [Package] package-asset@1.0.0 enable
+2023-07-26T01:49:42.923Z - log: [Package] process@1.0.0 enable
+2023-07-26T01:49:42.963Z - log: [Package] reference-image@1.0.0 enable
+2023-07-26T01:49:42.984Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-07-26T01:49:43.008Z - log: [Package] android@1.0.0 enable
+2023-07-26T01:49:43.047Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-07-26T01:49:43.079Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-07-26T01:49:43.111Z - log: [Package] cocos-play@1.0.0 enable
+2023-07-26T01:49:43.143Z - log: [Package] huawei-agc@1.0.0 enable
+2023-07-26T01:49:43.175Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-07-26T01:49:43.209Z - log: [Package] ios@1.0.0 enable
+2023-07-26T01:49:43.239Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-07-26T01:49:43.271Z - log: [Package] link-sure@1.0.0 enable
+2023-07-26T01:49:43.302Z - log: [Package] linux@1.0.0 enable
+2023-07-26T01:49:43.335Z - log: [Package] mac@1.0.0 enable
+2023-07-26T01:49:43.448Z - log: [Package] native@1.0.0 enable
+2023-07-26T01:49:43.477Z - log: [Package] ohos@1.0.0 enable
+2023-07-26T01:49:43.508Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-07-26T01:49:43.540Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-07-26T01:49:43.572Z - log: [Package] qtt@1.0.0 enable
+2023-07-26T01:49:43.603Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-07-26T01:49:43.645Z - log: [Package] web-desktop@1.0.0 enable
+2023-07-26T01:49:43.695Z - log: [Package] web-mobile@1.0.0 enable
+2023-07-26T01:49:43.740Z - log: [Package] wechatgame@1.0.1 enable
+2023-07-26T01:49:43.776Z - log: [Package] windows@1.0.0 enable
+2023-07-26T01:49:43.805Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-07-26T01:49:46.223Z - log: [Package] cocos-service@3.0.7 enable
+2023-07-26T01:49:46.306Z - log: [Package] importer@1.0.0 enable
+2023-07-26T01:49:46.570Z - log: [Im-plugin] Check im-plugin version.
+2023-07-26T01:49:46.580Z - log: [Package] im-plugin@3.0.8 enable
+2023-07-26T01:49:46.595Z - verbose: [AssetDB] Require engine code (4486ms)
+2023-07-26T01:49:47.209Z - log: [Im-plugin] No online info of im-plugin.
+2023-07-26T01:49:52.299Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-07-26T01:49:52.700Z - verbose: [Scene] Require engine code (0ms)
+2023-07-26T01:49:52.700Z - verbose: [Scene] Startup engine (1ms)
+2023-07-26T01:49:52.732Z - log: [Scene] Cocos Creator v3.5.2
+2023-07-26T01:49:52.919Z - verbose: [Scene] Open engine (218ms)
+2023-07-26T01:49:52.919Z - verbose: [Scene] Configure engine (1ms)
+2023-07-26T01:49:52.823Z - info: [Scene] Forward render pipeline initialized.
+2023-07-26T01:50:28.570Z - warn: Metrics: no valid info
+2023-07-27T08:38:48.591Z - log: [Package] menu@1.0.0 enable
+2023-07-27T08:38:48.594Z - log: [Package] profile@1.0.0 enable
+2023-07-27T08:38:48.607Z - log: [Package] project@1.0.2 enable
+2023-07-27T08:38:48.612Z - log: [Package] messages@1.0.0 enable
+2023-07-27T08:38:48.635Z - log: [Package] program@1.0.0 enable
+2023-07-27T08:38:48.640Z - log: [Package] tester@1.0.0 enable
+2023-07-27T08:38:48.646Z - log: [Package] preferences@1.0.0 enable
+2023-07-27T08:38:49.676Z - log: Setup mods mgr.: 648.338ms
+2023-07-27T08:38:49.685Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-07-27T08:38:49.694Z - verbose: [Engine] QuickCompile engine (994ms)
+2023-07-27T08:38:49.698Z - log: [Package] engine@1.0.6 enable
+2023-07-27T08:38:50.616Z - log: [Package] programming@1.0.0 enable
+2023-07-27T08:38:51.148Z - log: [Package] device@1.0.1 enable
+2023-07-27T08:38:51.182Z - log: [Package] ui-kit@1.0.1 enable
+2023-07-27T08:38:51.211Z - log: [Package] engine-extends@1.0.0 enable
+2023-07-27T08:38:51.281Z - log: [Package] asset-db@1.0.0 enable
+2023-07-27T08:38:51.318Z - log: [Package] scene@1.0.0 enable
+2023-07-27T08:38:51.477Z - log: [Package] server@1.0.0 enable
+2023-07-27T08:38:51.573Z - log: [Package] utils@1.0.0 enable
+2023-07-27T08:38:55.073Z - log: [Package] preview@1.0.1 enable
+2023-07-27T08:38:55.102Z - log: [Package] animator@1.0.0 enable
+2023-07-27T08:38:56.180Z - log: [Package] builder@1.3.2 enable
+2023-07-27T08:38:56.218Z - log: [Package] shortcuts@1.0.1 enable
+2023-07-27T08:38:56.251Z - log: [Package] animation-graph@1.0.0 enable
+2023-07-27T08:38:56.274Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-07-27T08:38:56.297Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-07-27T08:38:56.345Z - log: [Package] about@1.0.0 enable
+2023-07-27T08:38:56.393Z - log: [Package] assets@1.0.0 enable
+2023-07-27T08:38:56.439Z - log: [Package] console@1.0.0 enable
+2023-07-27T08:38:56.651Z - log: [Package] extension@3.0.16 enable
+2023-07-27T08:38:56.696Z - log: [Package] hierarchy@1.0.0 enable
+2023-07-27T08:38:56.730Z - log: [Package] inspector@1.0.0 enable
+2023-07-27T08:38:56.761Z - log: [Package] lightmap@1.0.4 enable
+2023-07-27T08:38:56.808Z - log: [Package] node-library@1.0.1 enable
+2023-07-27T08:38:56.847Z - log: [Package] package-asset@1.0.0 enable
+2023-07-27T08:38:56.886Z - log: [Package] process@1.0.0 enable
+2023-07-27T08:38:56.935Z - log: [Package] reference-image@1.0.0 enable
+2023-07-27T08:38:56.970Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-07-27T08:38:57.003Z - log: [Package] android@1.0.0 enable
+2023-07-27T08:38:57.033Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-07-27T08:38:57.066Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-07-27T08:38:57.097Z - log: [Package] cocos-play@1.0.0 enable
+2023-07-27T08:38:57.129Z - log: [Package] huawei-agc@1.0.0 enable
+2023-07-27T08:38:57.161Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-07-27T08:38:57.195Z - log: [Package] ios@1.0.0 enable
+2023-07-27T08:38:57.224Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-07-27T08:38:57.256Z - log: [Package] link-sure@1.0.0 enable
+2023-07-27T08:38:57.287Z - log: [Package] linux@1.0.0 enable
+2023-07-27T08:38:57.320Z - log: [Package] mac@1.0.0 enable
+2023-07-27T08:38:57.432Z - log: [Package] native@1.0.0 enable
+2023-07-27T08:38:57.468Z - log: [Package] ohos@1.0.0 enable
+2023-07-27T08:38:57.498Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-07-27T08:38:57.530Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-07-27T08:38:57.562Z - log: [Package] qtt@1.0.0 enable
+2023-07-27T08:38:57.594Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-07-27T08:38:57.636Z - log: [Package] web-desktop@1.0.0 enable
+2023-07-27T08:38:57.686Z - log: [Package] web-mobile@1.0.0 enable
+2023-07-27T08:38:57.732Z - log: [Package] wechatgame@1.0.1 enable
+2023-07-27T08:38:57.769Z - log: [Package] windows@1.0.0 enable
+2023-07-27T08:38:57.799Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-07-27T08:39:01.406Z - log: [Package] cocos-service@3.0.7 enable
+2023-07-27T08:39:01.493Z - log: [Package] importer@1.0.0 enable
+2023-07-27T08:39:01.769Z - log: [Im-plugin] Check im-plugin version.
+2023-07-27T08:39:01.779Z - log: [Package] im-plugin@3.0.8 enable
+2023-07-27T08:39:01.797Z - verbose: [AssetDB] Require engine code (5914ms)
+2023-07-27T08:39:02.453Z - log: [Im-plugin] No online info of im-plugin.
+2023-07-27T08:39:08.231Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-07-27T08:39:08.647Z - verbose: [Scene] Require engine code (1ms)
+2023-07-27T08:39:08.648Z - verbose: [Scene] Startup engine (0ms)
+2023-07-27T08:39:08.688Z - log: [Scene] Cocos Creator v3.5.2
+2023-07-27T08:39:08.903Z - verbose: [Scene] Open engine (255ms)
+2023-07-27T08:39:08.903Z - verbose: [Scene] Configure engine (0ms)
+2023-07-27T08:39:08.788Z - info: [Scene] Forward render pipeline initialized.
+2023-07-27T08:42:05.110Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\node.js:373:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\index.js:432:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:174:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:214:27)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\core\lib\config\resolve-targets.js:58:50)
+2023-07-27T08:42:07.400Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\node.js:351:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\index.js:431:7)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\targets-parser.js:39:18  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\compat.js:28:25  
+at Object.default (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-builder\index.js:35:26)
+2023-07-27T08:42:09.817Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)
+2023-07-27T08:42:23.392Z - warn: Metrics: no valid info
+2023-07-27T08:45:36.958Z - log: [Package] menu@1.0.0 enable
+2023-07-27T08:45:36.961Z - log: [Package] profile@1.0.0 enable
+2023-07-27T08:45:36.970Z - log: [Package] project@1.0.2 enable
+2023-07-27T08:45:36.976Z - log: [Package] messages@1.0.0 enable
+2023-07-27T08:45:36.982Z - log: [Package] program@1.0.0 enable
+2023-07-27T08:45:36.988Z - log: [Package] tester@1.0.0 enable
+2023-07-27T08:45:36.994Z - log: [Package] preferences@1.0.0 enable
+2023-07-27T08:45:37.684Z - log: Setup mods mgr.: 364.658ms
+2023-07-27T08:45:37.687Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2023-07-27T08:45:37.703Z - verbose: [Engine] QuickCompile engine (652ms)
+2023-07-27T08:45:37.706Z - log: [Package] engine@1.0.6 enable
+2023-07-27T08:45:38.734Z - log: [Package] programming@1.0.0 enable
+2023-07-27T08:45:39.104Z - log: [Package] device@1.0.1 enable
+2023-07-27T08:45:39.140Z - log: [Package] ui-kit@1.0.1 enable
+2023-07-27T08:45:39.170Z - log: [Package] engine-extends@1.0.0 enable
+2023-07-27T08:45:39.239Z - log: [Package] asset-db@1.0.0 enable
+2023-07-27T08:45:39.280Z - log: [Package] scene@1.0.0 enable
+2023-07-27T08:45:39.462Z - log: [Package] server@1.0.0 enable
+2023-07-27T08:45:39.496Z - log: [Package] utils@1.0.0 enable
+2023-07-27T08:45:42.817Z - log: [Package] preview@1.0.1 enable
+2023-07-27T08:45:42.862Z - log: [Package] animator@1.0.0 enable
+2023-07-27T08:45:44.081Z - log: [Package] builder@1.3.2 enable
+2023-07-27T08:45:44.122Z - log: [Package] shortcuts@1.0.1 enable
+2023-07-27T08:45:44.168Z - log: [Package] animation-graph@1.0.0 enable
+2023-07-27T08:45:44.207Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-07-27T08:45:44.236Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-07-27T08:45:44.280Z - log: [Package] about@1.0.0 enable
+2023-07-27T08:45:44.333Z - log: [Package] assets@1.0.0 enable
+2023-07-27T08:45:44.377Z - log: [Package] console@1.0.0 enable
+2023-07-27T08:45:44.635Z - log: [Package] extension@3.0.16 enable
+2023-07-27T08:45:44.673Z - log: [Package] hierarchy@1.0.0 enable
+2023-07-27T08:45:44.724Z - log: [Package] inspector@1.0.0 enable
+2023-07-27T08:45:44.767Z - log: [Package] lightmap@1.0.4 enable
+2023-07-27T08:45:44.803Z - log: [Package] node-library@1.0.1 enable
+2023-07-27T08:45:44.837Z - log: [Package] package-asset@1.0.0 enable
+2023-07-27T08:45:44.878Z - log: [Package] process@1.0.0 enable
+2023-07-27T08:45:44.927Z - log: [Package] reference-image@1.0.0 enable
+2023-07-27T08:45:44.964Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-07-27T08:45:44.995Z - log: [Package] android@1.0.0 enable
+2023-07-27T08:45:45.025Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-07-27T08:45:45.030Z - verbose: [AssetDB] Require engine code (1463ms)
+2023-07-27T08:45:45.057Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-07-27T08:45:45.089Z - log: [Package] cocos-play@1.0.0 enable
+2023-07-27T08:45:45.122Z - log: [Package] huawei-agc@1.0.0 enable
+2023-07-27T08:45:45.152Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-07-27T08:45:45.186Z - log: [Package] ios@1.0.0 enable
+2023-07-27T08:45:45.216Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-07-27T08:45:45.246Z - log: [Package] link-sure@1.0.0 enable
+2023-07-27T08:45:45.276Z - log: [Package] linux@1.0.0 enable
+2023-07-27T08:45:45.308Z - log: [Package] mac@1.0.0 enable
+2023-07-27T08:45:45.450Z - log: [Package] native@1.0.0 enable
+2023-07-27T08:45:45.478Z - log: [Package] ohos@1.0.0 enable
+2023-07-27T08:45:45.510Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-07-27T08:45:45.542Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-07-27T08:45:45.575Z - log: [Package] qtt@1.0.0 enable
+2023-07-27T08:45:45.605Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-07-27T08:45:45.652Z - log: [Package] web-desktop@1.0.0 enable
+2023-07-27T08:45:45.701Z - log: [Package] web-mobile@1.0.0 enable
+2023-07-27T08:45:45.750Z - log: [Package] wechatgame@1.0.1 enable
+2023-07-27T08:45:45.782Z - log: [Package] windows@1.0.0 enable
+2023-07-27T08:45:45.811Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-07-27T08:45:46.294Z - log: [Package] cocos-service@3.0.7 enable
+2023-07-27T08:45:46.364Z - log: [Package] importer@1.0.0 enable
+2023-07-27T08:45:46.680Z - log: [Im-plugin] Check im-plugin version.
+2023-07-27T08:45:46.691Z - log: [Package] im-plugin@3.0.8 enable
+2023-07-27T08:45:48.059Z - log: [Im-plugin] No online info of im-plugin.
+2023-07-27T08:45:51.012Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-07-27T08:45:51.647Z - verbose: [Scene] Require engine code (1ms)
+2023-07-27T08:45:51.648Z - verbose: [Scene] Startup engine (0ms)
+2023-07-27T08:45:51.708Z - log: [Scene] Cocos Creator v3.5.2
+2023-07-27T08:45:51.923Z - verbose: [Scene] Open engine (275ms)
+2023-07-27T08:45:51.923Z - verbose: [Scene] Configure engine (0ms)
+2023-07-27T08:45:51.789Z - info: [Scene] Forward render pipeline initialized.
+2023-07-27T08:46:40.152Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\node.js:373:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\index.js:432:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:174:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:214:27)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@babel\core\lib\config\resolve-targets.js:58:50)
+2023-07-27T08:46:41.893Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\node.js:351:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\browserslist\index.js:431:7)  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\targets-parser.js:39:18  
+at C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-compat\compat.js:28:25  
+at Object.default (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\core-js-builder\index.js:35:26)
+2023-07-27T08:46:44.668Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (C:\ProgramData\cocos\editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)
