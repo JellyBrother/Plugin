@@ -3,7 +3,13 @@
   "splash-setting": {
     "url": "C:\\work\\svn\\7\\INR_SJ_02\\2061\\3.jpg",
     "totalTime": 1000,
-    "displayRatio": 5.4,
-    "displayWatermark": false
+    "displayRatio": 1.2,
+    "displayWatermark": false,
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    }
   }
 }
